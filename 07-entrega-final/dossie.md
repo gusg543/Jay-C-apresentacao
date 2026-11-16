@@ -12,7 +12,7 @@
 - **Título:** Jay-C — comunicação por voz, vídeo e tela, simples, gratuita e local
 - **Turma:** 1º Ano A
 - **Integrantes:** Augusto do Amarante, Cristofer Dvorecky Oliveira, Guilherme Perpétuo, Henrique Augusto, Mateus Valenga
-- **Data:** 19/11/2026
+- **Data:** 19/11/2026 
 
 ## Sumário
 
@@ -935,7 +935,7 @@ Declaramos que todos os integrantes listados na capa participaram da elaboraçã
 
 | Integrante | Assinatura |
 |---|---|
-| Augusto do Amarante | |
+| Augusto do Amarante | Augusto A.|
 | Cristofer Dvorecky Oliveira | Cristofer D. Oliveira |
 | Guilherme Perpétuo | GuiP |
 | Henrique Augusto | Henrique A.|
