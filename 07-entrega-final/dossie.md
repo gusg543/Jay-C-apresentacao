@@ -935,7 +935,7 @@ Declaramos que todos os integrantes listados na capa participaram da elaboraçã
 
 | Integrante | Assinatura |
 |---|---|
-| Augusto do Amarante | |
+| Augusto do Amarante | Augusto A. |
 | Cristofer Dvorecky Oliveira | Cristofer D. Oliveira |
 | Guilherme Perpétuo | GuiP |
 | Henrique Augusto | Henrique A.|
